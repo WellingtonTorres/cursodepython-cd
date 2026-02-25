@@ -8,7 +8,7 @@
 # • A lista das palavras únicas em ordem alfabética.
 
 palavras = input("Digite as palavras: ").split()
-#Ao usar set ele elimina duplicado,
+# Notei que ao usar set ele elimina duplicado,
 # porém não mantém a ordem
 # palavrasUnicas = list(set(palavras))
 
